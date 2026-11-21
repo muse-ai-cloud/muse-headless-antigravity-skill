@@ -1,0 +1,5 @@
+name: "headless_antigravity_quota"
+title: "Headless Antigravity Quota"
+description: "Log a headless Linux agent into Antigravity CLI with a Google AI Pro account and offload text work to Gemini on the subscription quota."
+category: "Work and knowledge"
+include_in_prompt: false

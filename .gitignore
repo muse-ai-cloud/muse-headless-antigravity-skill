@@ -1,0 +1,7 @@
+# Never commit anything that smells like a credential.
+.gemini/
+*.log
+*token*
+*secret*
+.env
+agy-workspace/
